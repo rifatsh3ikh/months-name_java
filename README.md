@@ -30,7 +30,7 @@ It’s a beginner-level console program useful for learning simple input, contro
    git clone https://github.com/rifatsh3ikh/months-name_java.git
 
 ## Author
-Rifat Sheikh
+**Rifat Sheikh**
 
 ## License
 This project is open source and available for learning purposes.
